@@ -1,5 +1,5 @@
-# News_Bubblize
-A Flutter project focused on creating an app that visually organizes user sumbitted sites, in terms of bubbles. The goal of this project is to practice and further what I have learnt in my software engineering 2 course. Using flutter, dart, git, figma, BDD, & TDD. What I will need to read up on is creating interactive images in flutter & incorporating websites. The one draw back of this project will be, this is an individual project. So I won't be able to communicate coding discourse with others.  
+# News_Bubblizer
+A Flutter project focused on creating an app that visually organizes user sumbitted sites, in terms of bubbles. The goal of this project is to practice and further what I have learnt in my software engineering 2 course. Using flutter, dart, git, figma, BDD, TDD, & continuous integration with code magic. What I will need to read up on is creating interactive images in flutter & incorporating websites. The one draw back of this project will be, this is an individual project. So I won't be able to communicate coding discourse with others.  
 
 ## User Stories
 
